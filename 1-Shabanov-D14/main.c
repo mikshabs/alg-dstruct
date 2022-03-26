@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <math.h>
 #pragma warning(disable: 4996)
-
 #include "Sudoku.h"
 
 int main(int argc, char* argv[]) {
